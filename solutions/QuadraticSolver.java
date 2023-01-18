@@ -22,7 +22,6 @@ public class QuadraticSolver {
     public static void main(String[] args) {
         System.out.println("=================================");
         System.out.println("    Quadratic Equation Solver    ");
-        //System.out.println("=================================");
         
         System.out.println();
         System.out.println("Enter a quadratic equation:");
